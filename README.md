@@ -1,2 +1,5 @@
 # Twitter-sentiment-analysis
-basic code
+The code might not that standard but its a basic start in NLP
+
+sentiment.py - main file 
+               
